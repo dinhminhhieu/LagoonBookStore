@@ -1,0 +1,33 @@
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\QLNhaSachLagoon.exe.config
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\QLNhaSachLagoon.exe
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\QLNhaSachLagoon.pdb
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\Guna.UI2.dll
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.AssemblyReference.cache
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormLoading.resources
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormLogin.resources
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.Properties.Resources.resources
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.GenerateResource.cache
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.CopyComplete
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.exe
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.pdb
+D:\WorkSpace\C++\BASE PROGRAMMING\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormHome.resources
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\QLNhaSachLagoon.exe.config
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\QLNhaSachLagoon.exe
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\QLNhaSachLagoon.pdb
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\bin\Debug\Guna.UI2.dll
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormLoading.resources
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormLogin.resources
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormMain.resources
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.Properties.Resources.resources
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.GenerateResource.cache
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.csproj.CopyComplete
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.exe
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.pdb
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.ProductsBook.resources
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormHome.resources
+D:\WorkSpace\C#\Windows Forms Application (.NET Framework)\QLNhaSachLagoon\QLNhaSachLagoon\obj\Debug\QLNhaSachLagoon.FormPay.resources
